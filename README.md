@@ -1,4 +1,4 @@
-# Shree Ram Precast
+# Shree Ram Precast Concrete Pipes
 
 Company website for **Shree Ram Precast Concrete Pipes** — manufacturers and suppliers of RCC Hume pipes, manhole systems, SFRC covers, cement paver blocks, concrete road barriers, kerb stones and allied precast products. Based in Rohtak and Jhajjar, Haryana; serving Delhi NCR, Haryana, Uttar Pradesh, Rajasthan, Punjab and Uttarakhand.
 
@@ -58,8 +58,8 @@ shree_ram_precast/
 
 - **Phone:** +91 98103 92282, +91 89012 07273  
 - **Email:** spcpramphal@gmail.com  
-- **Rohtak:** Vill. Saman, Farmina Road, Distt. Rohtak – 124112, Haryana  
-- **Jhajjar:** Vill. Kablena, Chhudani Road, Distt. Jhajjar – 124104, Haryana  
+- **Rohtak:** Village Saman Farmana Road District Rohtak - 124112 Haryana  
+- **Jhajjar:** Village Kablana Chhudani road District Jhajjar - 124104 Haryana  
 
 ---
 
